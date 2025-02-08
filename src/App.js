@@ -18,6 +18,7 @@ export default function App() {
           <a
             href="https://github.com/Annie15N/dictionary-project"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>{" "}
@@ -25,6 +26,7 @@ export default function App() {
           <a
             href="https://spectacular-trifle-c923d8.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Netlify
           </a>
