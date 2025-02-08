@@ -1,0 +1,32 @@
+.Dictionary section {
+  background-color: #f8e7f6;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2);
+  margin: 30px;
+}
+
+.Dictionary h3 {
+  opacity: 0.8;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.Dictionary input {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.Dictionary .search-input {
+  width: 75%;
+  margin-right: 36px;
+  border: 1px solid #fcc6ff;
+}
+
+.Dictionary .search-button {
+  width: 20%;
+  background-color: #fff2f2;
+  border: none;
+}

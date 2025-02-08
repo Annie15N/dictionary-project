@@ -1,0 +1,19 @@
+.Synonyms strong {
+  color: #dd88cf;
+}
+
+.Synonyms {
+  margin: 30px 0 0;
+  padding: 0;
+}
+
+.Synonyms ul {
+}
+
+.Synonyms li {
+  display: inline;
+  border: 1px solid #dd88cf;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 0 10px;
+}
