@@ -3,7 +3,6 @@ import React from "react";
 import Synonyms from "./Synonyms";
 
 export default function Meaning(props) {
-  console.log(props.meaining);
   if (props.meaning.example !== null) {
     return (
       <div className="Meaning">
